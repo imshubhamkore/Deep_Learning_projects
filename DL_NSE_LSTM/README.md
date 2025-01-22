@@ -1,3 +1,3 @@
+## National Stock Exchange 
 
-
-Keggle Dataset Link:-https://www.kaggle.com/datasets/minatverma/nse-stocks-data/data
+Kaggle Dataset Link:-https://www.kaggle.com/datasets/minatverma/nse-stocks-data/data
