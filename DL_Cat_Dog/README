@@ -4,7 +4,7 @@
   This project focuses on building a binary classification model to distinguish between images of cats and dogs.
 - **It utilizes two approaches:**
   1. **Custom Convolutional Neural Network (CNN)**
-  2. **Transfer Learning using MobileNetV2**
+  2. **Transfer Learning using MobileNetV2 and VGG16**
 - **Both models are trained, validated, and tested on the Cat and Dog Images Dataset to achieve robust performance in classifying images.**
 
 
